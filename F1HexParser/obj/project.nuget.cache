@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjgksByjmMw=",
+  "success": true,
+  "projectFilePath": "/Users/aaryangusain/f1_telemetry/F1HexParser/F1HexParser.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaryangusain/.nuget/packages/f1game.udp/25.0.0/f1game.udp.25.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

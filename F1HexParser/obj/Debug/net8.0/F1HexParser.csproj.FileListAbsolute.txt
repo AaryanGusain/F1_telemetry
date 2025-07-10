@@ -1,0 +1,17 @@
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.csproj.AssemblyReference.cache
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.AssemblyInfoInputs.cache
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.AssemblyInfo.cs
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.csproj.CoreCompileInputs.cache
+/Users/aaryangusain/f1_telemetry/F1HexParser/bin/Debug/net8.0/F1HexParser
+/Users/aaryangusain/f1_telemetry/F1HexParser/bin/Debug/net8.0/F1HexParser.deps.json
+/Users/aaryangusain/f1_telemetry/F1HexParser/bin/Debug/net8.0/F1HexParser.runtimeconfig.json
+/Users/aaryangusain/f1_telemetry/F1HexParser/bin/Debug/net8.0/F1HexParser.dll
+/Users/aaryangusain/f1_telemetry/F1HexParser/bin/Debug/net8.0/F1HexParser.pdb
+/Users/aaryangusain/f1_telemetry/F1HexParser/bin/Debug/net8.0/F1Game.UDP.dll
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexPar.5C6DFCE6.Up2Date
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.dll
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/refint/F1HexParser.dll
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.pdb
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/F1HexParser.genruntimeconfig.cache
+/Users/aaryangusain/f1_telemetry/F1HexParser/obj/Debug/net8.0/ref/F1HexParser.dll

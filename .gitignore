@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.csv
+.env
+.ipynb_checkpoints/
+F1HexParser/f1_telemetry_spa_jun24.json
+F1HexParser/F1Telemetry_Jun24_2025_Silverstone.json
+F1HexParser/telemetry_output.csv
+telemetry_output.csv
